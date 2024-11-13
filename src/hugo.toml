@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/itfightclub/tech-lingo/tree/docs/'
+languageCode = 'en-us'
+title = 'tech-lingo'
+theme = 'relearn'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts :: tech-lingo</title>
+    <link>http://localhost:1313/itfightclub/tech-lingo/tree/docs/posts/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2024 02:43:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/itfightclub/tech-lingo/tree/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/itfightclub/tech-lingo/tree/docs/posts/my-first-post/index.html</link>
+      <pubDate>Wed, 13 Nov 2024 02:43:08 +0000</pubDate>
+      <guid>http://localhost:1313/itfightclub/tech-lingo/tree/docs/posts/my-first-post/index.html</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;New Content.</description>
+    </item>
+  </channel>
+</rss>
